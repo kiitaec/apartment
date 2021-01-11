@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\thewi\\.nuget\\packages\\": {}
+    "C:\\Users\\kingo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thewi\\OneDrive\\Изображения\\apartment\\Lab_7\\Lab_7.csproj",
+      "projectUniqueName": "C:\\Users\\kingo\\Documents\\apartment\\Lab_7\\Lab_7.csproj",
       "projectName": "Lab_7",
-      "projectPath": "C:\\Users\\thewi\\OneDrive\\Изображения\\apartment\\Lab_7\\Lab_7.csproj",
-      "packagesPath": "C:\\Users\\thewi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thewi\\OneDrive\\Изображения\\apartment\\Lab_7\\obj\\",
+      "projectPath": "C:\\Users\\kingo\\Documents\\apartment\\Lab_7\\Lab_7.csproj",
+      "packagesPath": "C:\\Users\\kingo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kingo\\Documents\\apartment\\Lab_7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thewi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kingo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -37,3 +37,16 @@ C:\Users\thewi\OneDrive\Рабочий стол\Lab_7\Lab_7\obj\Debug\netcoreapp
 C:\Users\thewi\OneDrive\Рабочий стол\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
 C:\Users\thewi\OneDrive\Рабочий стол\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
 C:\Users\thewi\OneDrive\Рабочий стол\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache
+C:\Users\kingo\Documents\apartment\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.exe
+C:\Users\kingo\Documents\apartment\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.deps.json
+C:\Users\kingo\Documents\apartment\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.json
+C:\Users\kingo\Documents\apartment\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.dev.json
+C:\Users\kingo\Documents\apartment\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\kingo\Documents\apartment\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csprojAssemblyReference.cache
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfoInputs.cache
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfo.cs
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\kingo\Documents\apartment\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache
